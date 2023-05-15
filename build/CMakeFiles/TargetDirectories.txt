@@ -1,0 +1,3 @@
+D:/Git/userdata/my_sdl_game/build/CMakeFiles/my_sdl_game.dir
+D:/Git/userdata/my_sdl_game/build/CMakeFiles/edit_cache.dir
+D:/Git/userdata/my_sdl_game/build/CMakeFiles/rebuild_cache.dir

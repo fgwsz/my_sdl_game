@@ -1,0 +1,8 @@
+﻿cmake_minimum_required(VERSION 3.0)
+project(my_sdl_game)
+aux_source_directory(src SRC_DIR)
+include_directories(include)
+add_executable(${PROJECT_NAME} ${SRC_DIR})
+target_link_libraries(${PROJECT_NAME} mingw32)
+target_link_libraries(${PROJECT_NAME} SDL2main)
+target_link_libraries(${PROJECT_NAME} SDL2)
