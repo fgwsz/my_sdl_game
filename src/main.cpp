@@ -2,7 +2,6 @@
 #include "SDL2/SDL_ttf.h"
 #include "SDL2/SDL_image.h"
 #include "SDL2/SDL_mixer.h"
-#include <iostream>
 int main( int argc, char* argv[] )
 {
     const int WIDTH = 640;
@@ -14,7 +13,7 @@ int main( int argc, char* argv[] )
     window = SDL_CreateWindow("SDL2 Test", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, WIDTH, HEIGHT, SDL_WINDOW_SHOWN);
     renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED | SDL_RENDERER_PRESENTVSYNC);
 
-    ::std::system("pause");
+    SDL_Delay(5000);
 
     SDL_DestroyRenderer(renderer);
     SDL_DestroyWindow(window);
