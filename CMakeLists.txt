@@ -9,7 +9,8 @@ include_directories(
 )
 add_executable(${PROJECT_NAME} ${SRC_DIR})
 # SDL2
-target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/ext/SDL2/lib/SDL2main.lib) # must be first
+# SDL2main must be first to link
+target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/ext/SDL2/lib/SDL2main.lib)
 target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/ext/SDL2/lib/SDL2.lib)
 target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/ext/SDL2/lib/SDL2_ttf.lib)
 target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/ext/SDL2/lib/SDL2_image.lib)
