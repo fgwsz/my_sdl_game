@@ -92,6 +92,9 @@ my_sdl_game_EXTERNAL_OBJECTS =
 
 my_sdl_game.exe: CMakeFiles/my_sdl_game.dir/src/main.c.obj
 my_sdl_game.exe: CMakeFiles/my_sdl_game.dir/build.make
+my_sdl_game.exe: D:/Git/userdata/my_sdl_game/ext/SDL2/lib/SDL2main.lib
+my_sdl_game.exe: D:/Git/userdata/my_sdl_game/ext/SDL2/lib/SDL2.lib
+my_sdl_game.exe: D:/Git/userdata/my_sdl_game/ext/SDL2/dll/SDL2.dll
 my_sdl_game.exe: CMakeFiles/my_sdl_game.dir/linkLibs.rsp
 my_sdl_game.exe: CMakeFiles/my_sdl_game.dir/objects1.rsp
 my_sdl_game.exe: CMakeFiles/my_sdl_game.dir/link.txt
