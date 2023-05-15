@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Git/userdata/my_sdl_game/src/main.cpp" "CMakeFiles/my_sdl_game.dir/src/main.cpp.obj" "gcc" "CMakeFiles/my_sdl_game.dir/src/main.cpp.obj.d"
+  "D:/MyWorkSpace/GitProjects/my_sdl_game/src/main.cpp" "CMakeFiles/my_sdl_game.dir/src/main.cpp.obj" "gcc" "CMakeFiles/my_sdl_game.dir/src/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

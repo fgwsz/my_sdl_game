@@ -44,19 +44,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = D:\Mingw\bin\mingw64\bin\cmake.exe
+CMAKE_COMMAND = D:\MySoftware\MinGw\bin\mingw64\bin\cmake.exe
 
 # The command to remove a file.
-RM = D:\Mingw\bin\mingw64\bin\cmake.exe -E rm -f
+RM = D:\MySoftware\MinGw\bin\mingw64\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Git\userdata\my_sdl_game
+CMAKE_SOURCE_DIR = D:\MyWorkSpace\GitProjects\my_sdl_game
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Git\userdata\my_sdl_game\build
+CMAKE_BINARY_DIR = D:\MyWorkSpace\GitProjects\my_sdl_game\build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/my_sdl_game.dir/clean
 CMakeFiles/my_sdl_game.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\my_sdl_game.dir\build.make CMakeFiles/my_sdl_game.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\my_sdl_game.dir\build.make CMakeFiles/my_sdl_game.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Git\userdata\my_sdl_game\build\CMakeFiles --progress-num=1,2 "Built target my_sdl_game"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\MyWorkSpace\GitProjects\my_sdl_game\build\CMakeFiles --progress-num=1,2 "Built target my_sdl_game"
 .PHONY : CMakeFiles/my_sdl_game.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/my_sdl_game.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Git\userdata\my_sdl_game\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\MyWorkSpace\GitProjects\my_sdl_game\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/my_sdl_game.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Git\userdata\my_sdl_game\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\MyWorkSpace\GitProjects\my_sdl_game\build\CMakeFiles 0
 .PHONY : CMakeFiles/my_sdl_game.dir/rule
 
 # Convenience name for target.
