@@ -24,3 +24,4 @@ target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/ext/SDL2/dll/l
 target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/ext/SDL2/dll/libopus-0.dll)
 target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/ext/SDL2/dll/libopusfile-0.dll)
 target_link_libraries(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/ext/SDL2/dll/SDL2_mixer.dll)
+# SDL2 or SFML is a problem
