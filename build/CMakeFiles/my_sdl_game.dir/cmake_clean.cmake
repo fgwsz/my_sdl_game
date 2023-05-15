@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/my_sdl_game.dir/src/main.c.obj"
-  "CMakeFiles/my_sdl_game.dir/src/main.c.obj.d"
+  "CMakeFiles/my_sdl_game.dir/src/main.cpp.obj"
+  "CMakeFiles/my_sdl_game.dir/src/main.cpp.obj.d"
   "libmy_sdl_game.dll.a"
   "my_sdl_game.exe"
   "my_sdl_game.exe.manifest"
@@ -8,6 +8,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C)
+foreach(lang CXX)
   include(CMakeFiles/my_sdl_game.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
