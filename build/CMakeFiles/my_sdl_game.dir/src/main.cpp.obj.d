@@ -183,6 +183,7 @@ CMakeFiles/my_sdl_game.dir/src/main.cpp.obj: \
  D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_misc.h \
  D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_ttf.h \
  D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL.h \
+ D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_image.h \
  d:\mysoftware\mingw\bin\mingw64\include\c++\12.2.0\iostream \
  d:\mysoftware\mingw\bin\mingw64\include\c++\12.2.0\ostream \
  d:\mysoftware\mingw\bin\mingw64\include\c++\12.2.0\ios \

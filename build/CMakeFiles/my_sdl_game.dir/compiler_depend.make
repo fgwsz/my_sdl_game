@@ -183,6 +183,9 @@ CMakeFiles/my_sdl_game.dir/src/main.cpp.obj: D:/MyWorkSpace/GitProjects/my_sdl_g
   D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_version.h \
   D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_locale.h \
   D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_misc.h \
+  D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_ttf.h \
+  D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL.h \
+  D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_image.h \
   D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/iostream \
   D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/ostream \
   D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/ios \
@@ -382,6 +385,10 @@ D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_version.h:
 
 D:/MySoftware/MinGw/bin/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/tbmintrin.h:
 
+D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/bits/invoke.h:
+
+D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/bits/stl_function.h:
+
 D:/MySoftware/MinGw/bin/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/sgxintrin.h:
 
 D:/MySoftware/MinGw/bin/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/avx512vpopcntdqvlintrin.h:
@@ -419,10 +426,6 @@ D:/MySoftware/MinGw/bin/mingw64/x86_64-w64-mingw32/include/_mingw_stat64.h:
 D:/MySoftware/MinGw/bin/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/xsavesintrin.h:
 
 D:/MySoftware/MinGw/bin/mingw64/x86_64-w64-mingw32/include/limits.h:
-
-D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/bits/stl_function.h:
-
-D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/bits/invoke.h:
 
 D:/MySoftware/MinGw/bin/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/clwbintrin.h:
 
@@ -742,10 +745,6 @@ D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_sensor.h:
 
 D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_touch.h:
 
-D:/MySoftware/MinGw/bin/mingw64/x86_64-w64-mingw32/include/process.h:
-
-D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_haptic.h:
-
 D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_hints.h:
 
 D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_events.h:
@@ -771,6 +770,12 @@ D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_timer.h:
 D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_locale.h:
 
 D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_misc.h:
+
+D:/MySoftware/MinGw/bin/mingw64/x86_64-w64-mingw32/include/process.h:
+
+D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_haptic.h:
+
+D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_image.h:
 
 D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/ostream:
 
@@ -845,6 +850,8 @@ D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_gesture.h:
 D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/bits/ptr_traits.h:
 
 D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/bits/functexcept.h:
+
+D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_ttf.h:
 
 D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/iostream:
 

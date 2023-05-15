@@ -184,6 +184,9 @@ CMakeFiles/my_sdl_game.dir/src/main.cpp.obj
  D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_version.h
  D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_locale.h
  D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_misc.h
+ D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_ttf.h
+ D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL.h
+ D:/MyWorkSpace/GitProjects/my_sdl_game/ext/SDL2/include/SDL2/SDL_image.h
  D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/iostream
  D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/ostream
  D:/MySoftware/MinGw/bin/mingw64/include/c++/12.2.0/ios
