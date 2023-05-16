@@ -1,0 +1,4 @@
+person{
+    name:Tom,
+    age:20
+}
