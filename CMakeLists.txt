@@ -1,7 +1,7 @@
 ﻿cmake_minimum_required(VERSION 3.0)
 project(my_sdl_game LANGUAGES C CXX)
 set(CMAKE_C_STANDARD 11)
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 aux_source_directory(src SRC_DIR)
 include_directories(
     include
