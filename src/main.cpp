@@ -19,10 +19,13 @@ int main(int argc, char* argv[])
     // SDL_Quit();
 
     ::std::filesystem::path project_exe_path(::std::string((char*)(argv[0])));
-    ::std::cout << "project_exe_path:"<< project_exe_path.string() << ::std::endl;
+    ::std::cout<<"project_exe_path:"<<project_exe_path.string()<<::std::endl;
     auto project_root_path = project_exe_path.parent_path();
-    ::std::cout << "project_root_path:" << project_root_path.string() << ::std::endl;
-    ::std::ifstream ifs(project_root_path / "res/hello.txt");
+    ::std::cout<<"project_root_path:"<<project_root_path.string()<<::std::endl;
+    auto project_res_path=project_root_path/"res";
+    ::std::cout<<"project_res_path:"<<project_res_path.string()<<::std::endl;
+
+    ::std::ifstream ifs(project_res_path/"hello.txt");
     ::std::string line;
     if(ifs){
         ::std::getline(ifs,line);
